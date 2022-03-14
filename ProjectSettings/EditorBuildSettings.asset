@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/MainMenu.unity
+    guid: e4a87e74637fd6a48aebe95c9197cf07
+  - enabled: 1
+    path: Assets/Scenes/Tutorial.unity
+    guid: f80d30862e1580745a0fdcb6de406e97
+  - enabled: 1
+    path: Assets/Scenes/Prologue.unity
+    guid: 37ce07dbaac762d4db8afe0a6aafd4a1
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/Interscene1.unity
+    guid: fb7a588f004800c4b86052901fa6fe25
+  - enabled: 1
+    path: Assets/Scenes/Interscene2.unity
+    guid: 7578d139b53b2654295bb547caa5981b
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 7e4812950f40e0c4fa3452c12afc49a4
+  - enabled: 1
+    path: Assets/Scenes/Interscene3.unity
+    guid: 8781f57129a41034285791614b413834
+  - enabled: 1
+    path: Assets/Scenes/Interscene4.unity
+    guid: 3e2f6dbe0fabbf641830279a659b58a3
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 4f5410dcba9e2e94eb3542d09d5398e7
+  - enabled: 1
+    path: Assets/Scenes/EndingScreen.unity
+    guid: 53f7c01d153e4244a8c29a967ff6a1b1
+  - enabled: 1
+    path: Assets/Scenes/Death.unity
+    guid: 1ece5f0888dde1541b84be31c86d1f3e
+  m_configObjects: {}
